@@ -125,7 +125,7 @@ ol.inline:hover>li:last-child:after
 #dates dl:first-of-type dt:last-of-type,
 #dates dl:first-of-type dd ~ dd
 {
-	color: gray;
+	color: dimgray;
 }
 
 #dates dl:first-of-type dd:last-of-type {
@@ -136,7 +136,7 @@ ol.inline:hover>li:last-child:after
 }
 
 #dates dl:first-of-type dd + dt{
-	color: darkgray;
+	color: #444;
 }
 
 #contact.sidebyside dl dt {
@@ -178,7 +178,7 @@ ol.inline:hover>li:last-child:after
 }
 
 #metadata dl dd a {
-	text-decoration-color: gray;
+	text-decoration-color: dimgray;
 }
 
 #metadata dt,
@@ -205,7 +205,7 @@ ol.inline:hover>li:last-child:after
 }
 
 #metadata dd {
-	color: gray;
+	color: dimgray;
 }
 
 #metadata dt.browsable,
